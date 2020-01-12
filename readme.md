@@ -1,4 +1,8 @@
 # Physicle.js Documentation
+### What is Physicle.js?
+
+Physicle.js is a physics library for javascript.
+
 
 ### Installation
 
