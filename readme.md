@@ -7,7 +7,7 @@ Physicle.js is a physics library for javascript.
 ## Usage
 
 To use physicle.js in your project you need to add this line in your HTML file: <br>
-`<script src="https://cdn.jsdelivr.net/gh/indiefinity/physiclejs/physicle.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/indiefinity/physiclejs@latest/physicle.js"></script>`
 
 
 ## Syntax
