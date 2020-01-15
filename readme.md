@@ -22,7 +22,7 @@ The character object can be defined something like this:
 ```js
 var char = {"x":100,"y":100};
 ```
-**Example on using the gravity() function** <br>
+**example on using the gravity() function** <br>
 ```js
 lel
 ```
