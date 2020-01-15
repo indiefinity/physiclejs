@@ -7,14 +7,14 @@ Physicle.js is a physics library for javascript.
 ## Installation
 
 To install physicle.js you need to add this line in your HTML file:
-`<install link>`
+`<script src="https://cdn.jsdelivr.net/gh/indiefinity/physiclejs/physicle.js"></script>`
 
 
 ## Syntax
 
-### gravity(charObj, gravityScale)
+### gravity(charObj, groundY gravityScale)
 
-gravity() takes two arguments: a character object and a gravity scale.
+gravity() takes three arguments: a character object, the y level of the ground and a gravity scale.
 
 **requirements of the character object** <br>
 The character object must have an y value to use the gravity function of physicle.js.
