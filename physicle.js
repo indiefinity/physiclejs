@@ -6,3 +6,4 @@ function gravity(charObj, groundY, gravityScale) {
         charObj.y *= gravityScale // for example 0.98
     }
 }
+function lol() {alert("lol")}
