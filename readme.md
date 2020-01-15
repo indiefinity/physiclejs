@@ -4,9 +4,9 @@
 Physicle.js is a physics library for javascript.
 
 
-## Installation
+## Usage
 
-To install physicle.js you need to add this line in your HTML file: <br>
+To use physicle.js in your project you need to add this line in your HTML file: <br>
 `<script src="https://cdn.jsdelivr.net/gh/indiefinity/physiclejs/physicle.js"></script>`
 
 
