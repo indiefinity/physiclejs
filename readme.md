@@ -6,7 +6,7 @@ Physicle.js is a physics library for javascript.
 
 ## Installation
 
-To install physicle.js you need to add this line in your HTML file:
+To install physicle.js you need to add this line in your HTML file: <br>
 `<script src="https://cdn.jsdelivr.net/gh/indiefinity/physiclejs/physicle.js"></script>`
 
 
