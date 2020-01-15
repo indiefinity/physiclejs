@@ -6,4 +6,13 @@ function gravity(charObj, groundY, gravityScale) {
         charObj.y += gravityScale // for example 0.98
     }
 }
+function addUpwardsVelocity(charObj, velocity, drag, minVel) {
+    let a = SetInterval(function(){
+        char.y -= velocity;
+        velocity *= drag;
+        if (velocity < minVel) {
+            clearInterval(a);
+        }
+    },10)
+}
 function lol() {alert("lol")}
