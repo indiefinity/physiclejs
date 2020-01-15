@@ -3,7 +3,7 @@ function gravity(charObj, groundY, gravityScale) {
         charObj.y = groundY
     }
     if (charObj.y < groundY) {
-        charObj.y *= gravityScale // for example 0.98
+        charObj.y += gravityScale // for example 0.98
     }
 }
 function lol() {alert("lol")}
